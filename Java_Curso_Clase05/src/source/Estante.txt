@@ -1,0 +1,14 @@
+10,Asado
+3,Naranja
+13,Salmon
+5,leche
+400,sofa
+400,licuadora
+6,aceite
+6,banana
+5,manzana
+4,pera
+1,zanahoria
+1,yerba playadito
+3,dulce de leche
+1,a

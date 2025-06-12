@@ -1,3 +1,4 @@
+````markdown
 # 🧠 Unidad 1: Introducción a la Programación
 
 Bienvenidos a la **Unidad 1 de Programación Estructurada**, donde daremos nuestros primeros pasos como programadores. En esta unidad aprenderás qué es la programación, para qué sirve, cómo funciona una computadora y cómo escribir tus primeras líneas en **Java**. 💻🔥
@@ -59,3 +60,45 @@ Bienvenidos a la **Unidad 1 de Programación Estructurada**, donde daremos nuest
           System.out.println("¡Hola mundo!");
       }
   }
+````
+
+* Compilación y ejecución con terminal o desde el IDE
+* ¿Qué es `main`? ¿Qué significa `public static void`?
+* Buenas prácticas de indentación y comentarios
+
+> 🧪 **Ejercicio práctico:** Modificar el mensaje de salida, agregar más líneas, crear errores y solucionarlos.
+
+---
+
+### 🔄 1.5 Cómo funciona un programa
+
+* ¿Qué pasa cuando compilo?
+* Código fuente → Bytecode → Máquina virtual Java (JVM)
+* El ciclo de vida del software (muy resumido)
+* Herramientas automáticas: compiladores, editores, depuradores
+
+---
+
+## 🧪 Actividades prácticas
+
+| # | Actividad          | Descripción                                       |
+| - | ------------------ | ------------------------------------------------- |
+| 1 | Instalar JDK e IDE | Instalar Java y un entorno de desarrollo.         |
+| 2 | Crear proyecto     | Crear un proyecto con una clase `HolaMundo`.      |
+| 3 | Cambiar el mensaje | Modificar el código y volver a compilar.          |
+| 4 | Investigar         | ¿Qué empresas usan Java y por qué?                |
+| 5 | Preguntas orales   | ¿Qué es programar? ¿Para qué sirve un compilador? |
+
+---
+
+## 📘 Recursos adicionales
+
+* [Documentación oficial de Java](https://docs.oracle.com/en/java/)
+* [Java para principiantes – W3Schools](https://www.w3schools.com/java/)
+* [Compilador online (opcional)](https://replit.com/languages/java10)
+
+---
+
+## ⏭️ Próxima unidad: Tipos de datos y variables
+
+> Vamos a aprender cómo guardar información en la memoria, declarar variables, y pedir datos al usuario. ¡Vas a empezar a escribir programas interactivos!

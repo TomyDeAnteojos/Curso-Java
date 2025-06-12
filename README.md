@@ -72,6 +72,5 @@ Bienvenido al curso de **Programación Estructurada** en Java. Esta curso está 
 
 ## 🚀 Herramientas que vamos a usar
 - Java (JDK 17+)
-- Visual Studio Code o IntelliJ IDEA
-- Git y GitHub (para entrega de trabajos)
-- Replit (en caso de no tener entorno instalado)
+- IntelliJ IDEA
+- Git y GitHub

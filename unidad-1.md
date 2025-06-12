@@ -59,7 +59,6 @@ Bienvenidos a la **Unidad 1 de Programación Estructurada**, donde daremos nuest
           System.out.println("¡Hola mundo!");
       }
   }
-````
 
 * Compilación y ejecución con terminal o desde el IDE
 * ¿Qué es `main`? ¿Qué significa `public static void`?

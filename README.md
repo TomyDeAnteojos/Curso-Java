@@ -14,7 +14,7 @@ Bienvenido al curso de **Programación Estructurada** en Java. Esta curso está 
 - Paradigmas: Programación estructurada vs. otros
 - Historia y fundamentos de Java
 - Instalación y configuración de entorno (JDK, IntelliJ)
-- Link./unidad1.md
+- [Link](./unidad1.md)
 
 
 ---

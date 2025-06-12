@@ -1,0 +1,61 @@
+# 🧠 Unidad 1: Introducción a la Programación
+
+Bienvenidos a la **Unidad 1 de Programación Estructurada**, donde daremos nuestros primeros pasos como programadores. En esta unidad aprenderás qué es la programación, para qué sirve, cómo funciona una computadora y cómo escribir tus primeras líneas en **Java**. 💻🔥
+
+---
+
+## 🎯 Objetivos de aprendizaje
+
+- Comprender qué significa programar y por qué es importante.
+- Conocer el lenguaje Java y su rol en el desarrollo de software.
+- Aprender cómo preparar tu computadora para programar.
+- Escribir, compilar y ejecutar tu primer programa.
+
+---
+
+## 🗂 Contenidos
+
+### 🧭 1.1 ¿Qué es programar?
+
+- Definición de programación
+- ¿Qué resuelve un programador?
+- Analogías simples: programación como receta de cocina
+- Introducción a los algoritmos
+- Problemas + soluciones = programas
+
+> 💬 **Actividad inicial:** ¿Qué tareas repetitivas podrías automatizar?
+
+---
+
+### 📜 1.2 Lenguajes de programación
+
+- ¿Qué es un lenguaje de programación?
+- Lenguajes compilados vs interpretados
+- Lenguajes populares hoy: Java, Python, JavaScript, C++
+- ¿Por qué aprender Java?
+
+> 📌 Java es uno de los lenguajes más usados en sistemas empresariales, Android, bancos, seguros y educación.
+
+---
+
+### 🧰 1.3 Entorno de desarrollo
+
+- ¿Qué herramientas necesito para programar?
+- Instalación de Java (JDK 17 o superior)
+- Instalación de Visual Studio Code o IntelliJ IDEA
+- ¿Qué es un compilador?
+- ¿Qué es una terminal/console?
+
+> 🛠 **Actividad guiada:** Instalación paso a paso del entorno en clase.
+
+---
+
+### 🖥️ 1.4 Tu primer programa en Java
+
+- Estructura básica de un programa en Java
+  ```java
+  public class HolaMundo {
+      public static void main(String[] args) {
+          System.out.println("¡Hola mundo!");
+      }
+  }

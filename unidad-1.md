@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Unidad 1: Introducción a la Programación
 
 Bienvenidos a la **Unidad 1 de Programación Estructurada**, donde daremos nuestros primeros pasos como programadores. En esta unidad aprenderás qué es la programación, para qué sirve, cómo funciona una computadora y cómo escribir tus primeras líneas en **Java**. 💻🔥

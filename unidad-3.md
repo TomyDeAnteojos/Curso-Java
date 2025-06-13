@@ -59,7 +59,7 @@ if (numero > 0) {
 | Operador | Descripción     | Ejemplo                              |
 | -------- | --------------- | ------------------------------------ |
 | `&&`     | AND lógico      | `edad > 18 && edad < 65`             |
-| `\|\|`   | OR lógico       | `nota >= 6 \|   \| asistencia > 80`  |
+| `\|\|`   | OR lógico       | `nota >= 6 \|\| asistencia > 80`  |
 | `!`      | Negación lógica | `!esAdmin`                           |
 
 ---

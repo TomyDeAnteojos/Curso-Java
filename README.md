@@ -25,6 +25,7 @@ Bienvenido al curso de **Programación Estructurada** en Java. Esta curso está 
 - Entrada y salida por consola (`Scanner`, `System.out`)
 - Comentarios y buenas prácticas de código
 - Conversión de tipos
+- [Link](./unidad-2.md)
 
 ---
 
@@ -34,6 +35,7 @@ Bienvenido al curso de **Programación Estructurada** en Java. Esta curso está 
 - Bucles (`while`, `do-while`, `for`)
 - Control de flujo (`break`, `continue`)
 - Casos prácticos de uso real
+- - [Link](./unidad-3.md)
 
 ---
 
@@ -43,6 +45,7 @@ Bienvenido al curso de **Programación Estructurada** en Java. Esta curso está 
 - Parámetros y valores de retorno
 - Scope de variables
 - Modularidad, reutilización y legibilidad
+- - [Link](./unidad-4.md)
 
 ---
 
@@ -52,6 +55,7 @@ Bienvenido al curso de **Programación Estructurada** en Java. Esta curso está 
 - Arreglos multidimensionales (`int[][]`)
 - Casos de uso: estadísticas, matrices, etc.
 - Introducción breve a colecciones (`ArrayList` - opcional)
+- [Link](./unidad-5.md)
 
 ---
 
